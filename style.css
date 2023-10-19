@@ -1,0 +1,49 @@
+html {
+  background: url(userlogin-img/background.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  border: solid purple;
+  border-radius: 5%;
+  background: rgba(255, 255, 255, 0.8);
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  width: 600px;
+  height: 700px;
+  margin: auto;
+  margin-top: 50px;
+  color: white;
+}
+
+.georgia {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div {
+  background-color: purple;
+  padding: 30px 0 5px;
+  padding-bottom: 30px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 8px;
+  border: solid rgb(226, 248, 222) 2px;
+  width: 105px;
+  border-style: outset;
+}
+
+.space {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.media {
+  width: 50px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
